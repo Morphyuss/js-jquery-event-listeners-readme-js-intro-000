@@ -2,15 +2,12 @@ function getIt() {
   $('p').on("click", function(){
     alert("Hey!");
   });
-  
 }
 
 function frameIt() {
   $('img').on("load", function(){
     $('img').addClass('tasty');
-    
   });
-  
 }
 
 
@@ -20,7 +17,6 @@ function pressIt() {
       alert('s was pressed');
     }
   });
-  
 }
 
 function submitIt() {
@@ -29,11 +25,3 @@ function submitIt() {
   });
 }
 
-
-//define functions here
-
-$(document).ready(function(){
-
-// call functions here
-
-});
