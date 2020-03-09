@@ -1,5 +1,7 @@
 function getIt() {
-  $('p')
+  $('p').on("click", function(){
+    alert("Hey!");
+  });
   
 }
 
