@@ -12,6 +12,13 @@ function frameIt() {
   
 }
 
+
+
+/* $(function() {
+  $('#about').addClass('expand');
+});
+
+*/
 function pressIt() {
   
 }
