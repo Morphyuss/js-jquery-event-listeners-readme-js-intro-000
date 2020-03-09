@@ -6,6 +6,9 @@ function getIt() {
 }
 
 function frameIt() {
+  $('').on("load", function (){
+    
+  })
   
 }
 
