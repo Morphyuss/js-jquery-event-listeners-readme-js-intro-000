@@ -18,6 +18,15 @@ function frameIt() {
   $('#about').addClass('expand');
 });
 
+$(document).ready(function(){
+ $('#about').addClass('expand');
+});
+
+
+
+
+
+
 */
 function pressIt() {
   
